@@ -1,2 +1,2 @@
-# belajarHariIni
-jadi ini adalah hasil pembelajaran hari ini apa saja 
+# belajar
+hasil pembelajaran hari ini 
